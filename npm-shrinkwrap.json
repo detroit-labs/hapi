@@ -14,6 +14,11 @@
     "boom": {
       "version": "4.2.0"
     },
+    "bounce": {
+      "version": "1.0.3",
+      "resolved": "https://registry.npmjs.org/bounce/-/bounce-1.0.3.tgz",
+      "integrity": "sha1-IfG31SlBnYIZBEYTJaJ3RNlaVhE="
+    },
     "call": {
       "version": "4.0.0"
     },
