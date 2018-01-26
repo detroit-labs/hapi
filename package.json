@@ -32,7 +32,7 @@
     "items": "2.x.x",
     "joi": "10.x.x",
     "mimos": "3.x.x",
-    "podium": "^1.2.x",
+    "podium": "3.x.x",
     "shot": "3.x.x",
     "statehood": "5.x.x",
     "subtext": "^4.3.x",
