@@ -36,6 +36,7 @@
     "shot": "3.x.x",
     "statehood": "5.x.x",
     "subtext": "^4.3.x",
+    "teamwork": "3.x.x",
     "topo": "2.x.x"
   },
   "devDependencies": {
